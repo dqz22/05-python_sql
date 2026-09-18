@@ -1,0 +1,10 @@
+# Ambiente Virtual Python
+.venv/
+venv/
+env/
+
+# Variaveis e credenciais
+.env
+
+#Python
+_pycache_/
